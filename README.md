@@ -3,6 +3,15 @@
 
 This repo cotains all the source code for Digital Image Processing algorithms. Also a web app demo using Streamlit platform.
 
+## Functionalities
+My photoshop web app has these following tasks:
+- RGB to Grayscale image, RGB to Sepia image.
+- Change image's brightness, contrast values.
+- Flip image vertically.
+- Circle crop and center crop images.
+- Image compression(using PCA algorithms).
+- Image edge detection(using Canny algorithms).
+
 ## Dependencies
 * Python 3.10 - 3.11 is needed for this program.
 * OS: Windows 10 - 11
