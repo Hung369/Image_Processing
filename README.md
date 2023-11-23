@@ -42,7 +42,7 @@ After activating virtual environment and installing all necessary libraries, use
 ```
 ## Demo
 
-Demo Link: 
+Demo Link: https://www.loom.com/share/79fe061c60ab4022b2f5060bfcd14e46?sid=f51eca27-e004-4751-bfa9-a8600873f9ca
 
 
 ## Acknowledgements
